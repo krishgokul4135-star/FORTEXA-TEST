@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Security Department Portal",
+  "description": "A highly secure, landscape-oriented administrative and academic web portal for the Cyber Security Department, featuring real-time threat analytics, academic record managers, event fund ledgers, and assessment quiz engines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
